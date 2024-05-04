@@ -1,0 +1,22 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+#result{
+    font-size: 70px;
+}
+.buttons{
+    padding: 10px;
+    background-color: hsl(223, 50%, 58%);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    margin-right: 10px;
+    transition: background-color 0.25s;
+}
+.buttons:hover{
+    background-color: hsl(223, 50%, 28%);   
+}
+
